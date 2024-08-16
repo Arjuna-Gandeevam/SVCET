@@ -1,0 +1,2 @@
+# SVCET
+for college resources
